@@ -1,0 +1,41 @@
+{
+	"users": [{
+			"username": ["ccpatel2@wisc.edu"],
+			"name": ["Callan Patel"],
+			"type": ["student"],
+			"isAdmin": ["false"],
+			"isPublic": ["true"],
+			"yearOfGrad": ["2022"],
+			"major": ["computer science", "math"],
+			"certificate": [""],
+			"clubs": ["TKE"],
+			"scholership": [""],
+			"courses": ["CS400", "ASTRON104", "CS252", "PSYCH202", "PHYSICS102"],
+			"workExperience": ["Salad Chef"]
+		},
+		{
+			"username": ["aj@wisc.edu"],
+			"name": ["AJ"],
+			"type": ["faculty"],
+			"isAdmin": ["false"],
+			"isPublic": ["true"],
+			"coursesTaught": ["CS400", "CS300", "CS200"],
+			"officeHours": ["12:00 PM", "12:00 AM"],
+			"officeLocation": ["1551 Computer Science"]
+		},
+		{
+			"username": ["ben@wisc.edu"],
+			"name": ["ben"],
+			"type": ["student"],
+			"isAdmin": ["true"],
+			"isPublic": ["true"],
+			"yearOfGrad": ["2021"],
+			"major": ["math"],
+			"certificate": ["computer science"],
+			"clubs": ["coding4good"],
+			"scholership": [""],
+			"courses": ["CS400", "POLISCI", "PHYSICS202"],
+			"workExperience": [""]
+		}
+	]
+}
